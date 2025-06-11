@@ -1,0 +1,17 @@
+# Токен бота
+BOT_TOKEN = "7605177463:AAFIt3GqOFfIp4-E0bzhFXtBBOu473brKoE"
+
+# Время отправки ежедневного отчета (по Москве)
+REPORT_TIME = "22:30"
+
+# ID пользователя для отправки общего отчета
+REPORT_USER_ID = 7037364839
+
+# Список админов
+ALLOWED_USERS = [7699005037, 7699005037]
+
+
+DB_NAME = "bot_db.sqlite"
+
+# Настройки часового пояса
+TIMEZONE = "Europe/Moscow" 
